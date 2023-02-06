@@ -219,7 +219,7 @@ const LoggedInLayout = ({ children }) => {
             noWrap
             className={classes.title}
           >
-            JDzap - JD Tecnlogia
+            MeuHub - WaSap Multiatendimento
           </Typography>
           {user.id && <NotificationsPopOver />}
 
