@@ -124,26 +124,7 @@ const MainListItems = (props) => {
         perform="drawer-admin-items:view"
         yes={() => (
           <>
-            <Divider />
-            <ListSubheader inset>
-              Gerenciar Campanhas
-            </ListSubheader>
-       
-           <ListItemLink
-              to="/BulkMessage"
-              primary="Campanhas"
-              icon={<ChatBubbleOutlineOutlined />}
-            />
-            <ListItemLink
-              to="/ShippingReport"
-              primary="Relatório Envios"
-              icon={<LibraryBooks />}
-            />
-            <ListItemLink
-              to="/SettingsMessage"
-              primary="Config. Envios"
-              icon={<AddCircleOutline />}
-            />
+
             <Divider />
             <ListSubheader inset>
               {i18n.t("mainDrawer.listItems.administration")}
