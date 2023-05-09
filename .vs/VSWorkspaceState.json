@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\src",
+    "\\backend\\src\\libs",
+    "\\frontend",
+    "\\frontend\\src",
+    "\\frontend\\src\\hooks",
+    "\\frontend\\src\\hooks\\useSocket",
+    "\\frontend\\src\\hooks\\useTickets",
+    "\\frontend\\src\\hooks\\useWhatsApps"
+  ],
+  "PreviewInSolutionExplorer": false
+}
